@@ -1,0 +1,698 @@
+RAGWE2016-07-29 22:51:46.782 - Thread:   1 ->  Log Started
+2016-07-29 22:51:46.782 - Thread:   1 ->  Timezone (local - UTC): 2h
+2016-07-29 22:51:46.782 - Thread:   1 ->  App Version: Version unknown
+2016-07-29 22:51:46.782 - Thread:   1 ->  VRage renderer started
+2016-07-29 22:51:46.891 - Thread:   1 ->  WMI {
+2016-07-29 22:51:46.907 - Thread:   1 ->     {
+2016-07-29 22:51:46.907 - Thread:   1 ->        Caption = NVIDIA GeForce GTX 970
+2016-07-29 22:51:46.922 - Thread:   1 ->        AdapterRam = 4293918720
+2016-07-29 22:51:46.922 - Thread:   1 ->        DriverVersion = 10.18.13.6191
+2016-07-29 22:51:46.922 - Thread:   1 ->        DriverDate = 20160208000000.000000-000
+2016-07-29 22:51:46.922 - Thread:   1 ->        Description = NVIDIA GeForce GTX 970
+2016-07-29 22:51:46.922 - Thread:   1 ->        DeviceID = VideoController1
+2016-07-29 22:51:46.922 - Thread:   1 ->        Name = NVIDIA GeForce GTX 970
+2016-07-29 22:51:46.922 - Thread:   1 ->        VideoProcessor = GeForce GTX 970
+2016-07-29 22:51:46.922 - Thread:   1 ->        VideoArchitecture = 5
+2016-07-29 22:51:46.922 - Thread:   1 ->        PNPDeviceID = PCI\VEN_10DE&DEV_13C2&SUBSYS_29753842&REV_A1\4&F1D09F1&0&0010
+2016-07-29 22:51:46.922 - Thread:   1 ->        InstalledDisplayDrivers = nvd3dumx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvd3dum,nvwgf2um,nvwgf2um
+2016-07-29 22:51:46.922 - Thread:   1 ->     }
+2016-07-29 22:51:46.922 - Thread:   1 ->  }
+2016-07-29 22:51:47.110 - Thread:   1 ->  AdapterInfo = {
+2016-07-29 22:51:47.110 - Thread:   1 ->     Name = NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 
+2016-07-29 22:51:47.110 - Thread:   1 ->     Device name = NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 
+2016-07-29 22:51:47.110 - Thread:   1 ->     Description = NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 , dev id: 5058, mem: 4202364928, shared mem: 4003854336, Luid: 43087, rev: 161, subsys id: 695547970, vendor id: 4318
+2016-07-29 22:51:47.110 - Thread:   1 ->     DXGIAdapter id = 0
+2016-07-29 22:51:47.110 - Thread:   1 ->     SUPPORTED = True
+2016-07-29 22:51:47.110 - Thread:   1 ->     VRAM = 4202364928
+2016-07-29 22:51:47.110 - Thread:   1 ->     Priority = 2
+2016-07-29 22:51:47.110 - Thread:   1 ->     Multithreaded rendering supported = True
+2016-07-29 22:51:47.219 - Thread:   1 ->     Display modes = {
+2016-07-29 22:51:47.219 - Thread:   1 ->        DXGIOutput id = 0
+2016-07-29 22:51:47.219 - Thread:   1 ->        640x480@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        640x480@75Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        800x600@75Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        800x600@60.317Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1024x768@60.004Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1024x768@75.029Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1152x864@60.02Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1152x864@60.02Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1152x864@75.025Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1152x864@75.025Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x720@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x768@59.81Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x768@59.81Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x800@59.81Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x960@60.02Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x960@60.02Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x960@75.025Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x960@75.025Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x1024@60.02Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1280x1024@75.025Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1360x768@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1360x768@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1366x768@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1366x768@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1440x900@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1440x900@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1600x900@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1680x1050@59.954Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->        1920x1080@60Hz
+2016-07-29 22:51:47.219 - Thread:   1 ->     }
+2016-07-29 22:51:47.234 - Thread:   1 ->     Display modes = {
+2016-07-29 22:51:47.234 - Thread:   1 ->        DXGIOutput id = 1
+2016-07-29 22:51:47.234 - Thread:   1 ->        640x480@60Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        640x480@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        800x600@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        800x600@60.317Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1024x768@60.004Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1024x768@75.029Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1152x864@75Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x720@60Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x960@60Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x1024@60.02Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1280x1024@75.025Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1440x900@59.887Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1440x900@74.984Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->        1680x1050@59.954Hz
+2016-07-29 22:51:47.234 - Thread:   1 ->     }
+2016-07-29 22:51:47.250 - Thread:   1 ->     Display modes = {
+2016-07-29 22:51:47.250 - Thread:   1 ->        DXGIOutput id = 2
+2016-07-29 22:51:47.250 - Thread:   1 ->        640x480@60Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        640x480@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        800x600@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        800x600@60.317Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1024x768@60.004Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1024x768@75.029Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1152x864@75Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x720@60Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x960@60Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x1024@60.02Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1280x1024@75.025Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1440x900@59.887Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1440x900@74.984Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->        1680x1050@59.954Hz
+2016-07-29 22:51:47.250 - Thread:   1 ->     }
+2016-07-29 22:51:47.250 - Thread:   1 ->     Fallback display modes = False
+2016-07-29 22:51:47.250 - Thread:   1 ->  }
+2016-07-29 22:51:51.696 - Thread:   7 ->  CreateDevice - original settings
+2016-07-29 22:51:51.696 - Thread:   7 ->     MyRenderDeviceSettings = {
+2016-07-29 22:51:51.712 - Thread:   7 ->        Adapter id = 0
+2016-07-29 22:51:51.712 - Thread:   7 ->        DXGIAdapter id = 0
+2016-07-29 22:51:51.712 - Thread:   7 ->        DXGIOutput id = 0
+2016-07-29 22:51:51.712 - Thread:   7 ->        Resolution = 1600 x 900
+2016-07-29 22:51:51.712 - Thread:   7 ->        Window mode = Window
+2016-07-29 22:51:51.712 - Thread:   7 ->     }
+2016-07-29 22:51:51.712 - Thread:   7 ->     CreateDevice settings
+2016-07-29 22:51:51.712 - Thread:   7 ->        MyRenderDeviceSettings = {
+2016-07-29 22:51:51.712 - Thread:   7 ->           Adapter id = 0
+2016-07-29 22:51:51.712 - Thread:   7 ->           DXGIAdapter id = 0
+2016-07-29 22:51:51.712 - Thread:   7 ->           DXGIOutput id = 0
+2016-07-29 22:51:51.712 - Thread:   7 ->           Resolution = 1600 x 900
+2016-07-29 22:51:51.712 - Thread:   7 ->           Window mode = Window
+2016-07-29 22:51:51.712 - Thread:   7 ->        }
+2016-07-29 22:51:51.836 - Thread:   7 ->        Device Context change
+2016-07-29 22:51:52.414 - Thread:   7 ->        DestroyCascadeTextures
+2016-07-29 22:51:52.414 - Thread:   7 ->        InitCascadeTextures: 0 / False
+2016-07-29 22:51:54.719 - Thread:   7 ->        DestroyCascadeTextures
+2016-07-29 22:51:54.720 - Thread:   7 ->           m_cascadeShadowmapArray destroy
+2016-07-29 22:51:54.736 - Thread:   7 ->           m_cascadeShadowmapBackup destroy
+2016-07-29 22:51:54.736 - Thread:   7 ->        DestroyCascadeTextures
+2016-07-29 22:51:54.736 - Thread:   7 ->        DestroyCascadeTextures
+2016-07-29 22:51:54.737 - Thread:   7 ->        InitCascadeTextures: 0 / False
+2016-07-29 22:52:00.457 - Thread:   1 ->  MyGuiManager2.LoadContent() - START
+2016-07-29 22:52:02.631 - Thread:   7 ->        ApplySettings
+2016-07-29 22:52:02.632 - Thread:   7 ->           MyRenderDeviceSettings = {
+2016-07-29 22:52:02.633 - Thread:   7 ->              Adapter id = 0
+2016-07-29 22:52:02.633 - Thread:   7 ->              DXGIAdapter id = 0
+2016-07-29 22:52:02.633 - Thread:   7 ->              DXGIOutput id = 0
+2016-07-29 22:52:02.633 - Thread:   7 ->              Resolution = 1600 x 900
+2016-07-29 22:52:02.633 - Thread:   7 ->              Window mode = Window
+2016-07-29 22:52:02.633 - Thread:   7 ->           }
+2016-07-29 22:52:02.670 - Thread:   7 ->           DestroyCascadeTextures
+2016-07-29 22:52:02.671 - Thread:   7 ->              m_cascadeShadowmapArray destroy
+2016-07-29 22:52:02.671 - Thread:   7 ->              m_cascadeShadowmapBackup destroy
+2016-07-29 22:52:02.671 - Thread:   7 ->           DestroyCascadeTextures
+2016-07-29 22:52:02.672 - Thread:   7 ->           DestroyCascadeTextures
+2016-07-29 22:52:02.672 - Thread:   7 ->           InitCascadeTextures: 0 / False
+2016-07-29 22:52:02.710 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.711 - Thread:   1 ->        Font filename: Fonts\white_shadow\FontData.xml
+2016-07-29 22:52:02.807 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontData.xml
+2016-07-29 22:52:02.807 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.807 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.807 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.807 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.807 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.808 - Thread:   1 ->        Font filename: Fonts\red\FontData.xml
+2016-07-29 22:52:02.869 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2016-07-29 22:52:02.869 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.869 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.869 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.869 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.869 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.869 - Thread:   1 ->        Font filename: Fonts\green\FontData.xml
+2016-07-29 22:52:02.905 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\green\FontData.xml
+2016-07-29 22:52:02.905 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.905 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.905 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.905 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.905 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.906 - Thread:   1 ->        Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:02.929 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:02.929 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.929 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.929 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.929 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.929 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.930 - Thread:   1 ->        Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:02.940 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:02.940 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.940 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.940 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.940 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.940 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.941 - Thread:   1 ->        Font filename: Fonts\DarkBlue\FontData.xml
+2016-07-29 22:52:02.981 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\DarkBlue\FontData.xml
+2016-07-29 22:52:02.981 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.981 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.981 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.981 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.981 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.981 - Thread:   1 ->        Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:02.984 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:02.984 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.984 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.984 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.984 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.984 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.985 - Thread:   1 ->        Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:02.993 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:02.993 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.993 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.993 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.993 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.993 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.994 - Thread:   1 ->        Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:02.998 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:02.998 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:02.998 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:02.998 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:02.998 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:02.998 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:02.999 - Thread:   1 ->        Font filename: Fonts\red\FontData.xml
+2016-07-29 22:52:03.001 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2016-07-29 22:52:03.001 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.001 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.001 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.001 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.001 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.002 - Thread:   1 ->        Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:03.004 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:03.004 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.004 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.004 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.004 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.004 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.005 - Thread:   1 ->        Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:03.007 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:03.007 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.007 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.007 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.007 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.007 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.008 - Thread:   1 ->        Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:03.010 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:03.010 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.010 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.010 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.010 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.010 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.011 - Thread:   1 ->        Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:03.013 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:03.013 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.013 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.013 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.013 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.013 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.014 - Thread:   1 ->        Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:03.017 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:03.017 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.017 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.017 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.017 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.017 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.017 - Thread:   1 ->        Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:03.020 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:03.020 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.020 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.020 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.020 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.020 - Thread:   1 ->     MyFont.Ctor - START
+2016-07-29 22:52:03.020 - Thread:   1 ->        Font filename: Fonts\red\FontData.xml
+2016-07-29 22:52:03.024 - Thread:   1 ->        FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2016-07-29 22:52:03.024 - Thread:   1 ->        LineHeight: 37
+2016-07-29 22:52:03.024 - Thread:   1 ->        Baseline: 30
+2016-07-29 22:52:03.024 - Thread:   1 ->        KernEnabled: True
+2016-07-29 22:52:03.024 - Thread:   1 ->     MyFont.Ctor - END
+2016-07-29 22:52:03.024 - Thread:   1 ->  MyGuiManager2.LoadContent() - END
+2016-07-29 22:52:04.040 - Thread:   7 ->        UpdateRenderSettings
+2016-07-29 22:52:04.042 - Thread:   7 ->           MyRenderSettings1 = {
+2016-07-29 22:52:04.042 - Thread:   7 ->              AntialiasingMode = FXAA
+2016-07-29 22:52:04.042 - Thread:   7 ->              FoliageDetails = MEDIUM
+2016-07-29 22:52:04.042 - Thread:   7 ->              ShadowQuality = HIGH
+2016-07-29 22:52:04.042 - Thread:   7 ->              TextureQuality = HIGH
+2016-07-29 22:52:04.042 - Thread:   7 ->              AnisotropicFiltering = NONE
+2016-07-29 22:52:04.042 - Thread:   7 ->              InterpolationEnabled = False
+2016-07-29 22:52:04.042 - Thread:   7 ->           }
+2016-07-29 22:52:04.042 - Thread:   7 ->           DestroyCascadeTextures
+2016-07-29 22:52:04.043 - Thread:   7 ->              m_cascadeShadowmapArray destroy
+2016-07-29 22:52:04.043 - Thread:   7 ->              m_cascadeShadowmapBackup destroy
+2016-07-29 22:52:04.043 - Thread:   7 ->           DestroyCascadeTextures
+2016-07-29 22:52:04.044 - Thread:   7 ->           DestroyCascadeTextures
+2016-07-29 22:52:04.044 - Thread:   7 ->           InitCascadeTextures: 0 / False
+2016-07-29 22:52:04.049 - Thread:   1 ->  MyVideoSettingsManager.OnVideoAdaptersResponse
+2016-07-29 22:52:04.051 - Thread:   1 ->     Adapter DeviceName: 'NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 ', Description: 'NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 , dev id: 5058, mem: 4202364928, shared mem: 4003854336, Luid: 43087, rev: 161, subsys id: 695547970, vendor id: 4318'
+2016-07-29 22:52:04.090 - Thread:   1 ->        640x480@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        640x480@75Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        800x600@75Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        800x600@60.317Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1024x768@60.004Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1024x768@75.029Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1152x864@60.02Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1152x864@60.02Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1152x864@75.025Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1152x864@75.025Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x720@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x768@59.81Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x768@59.81Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x800@59.81Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x960@60.02Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x960@60.02Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x960@75.025Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x960@75.025Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x1024@60.02Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1280x1024@75.025Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1360x768@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1360x768@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1366x768@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1366x768@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1440x900@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1440x900@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1600x900@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1680x1050@59.954Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->        1920x1080@60Hz
+2016-07-29 22:52:04.090 - Thread:   1 ->     Adapter DeviceName: 'NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 ', Description: 'NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 , dev id: 5058, mem: 4202364928, shared mem: 4003854336, Luid: 43087, rev: 161, subsys id: 695547970, vendor id: 4318'
+2016-07-29 22:52:04.091 - Thread:   1 ->        640x480@60Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        640x480@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        800x600@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        800x600@60.317Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1024x768@60.004Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1024x768@75.029Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1152x864@75Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x720@60Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x960@60Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x1024@60.02Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1280x1024@75.025Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:52:04.091 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1440x900@59.887Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1440x900@74.984Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1680x1050@59.954Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->     Adapter DeviceName: 'NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 ', Description: 'NVIDIA GeForce GTX 970                              \Registry\Machine\System\CurrentControlSet\Control\Video\{b043b95c-5670-4f1 , dev id: 5058, mem: 4202364928, shared mem: 4003854336, Luid: 43087, rev: 161, subsys id: 695547970, vendor id: 4318'
+2016-07-29 22:52:04.092 - Thread:   1 ->        640x480@60Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        640x480@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x480@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x480@60.317Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x576@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        720x576@60.317Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        800x600@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        800x600@60.317Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1024x768@60.004Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1024x768@75.029Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1152x864@75Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1280x720@60Hz
+2016-07-29 22:52:04.092 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x768@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x768@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x800@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x800@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x960@60Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x1024@60.02Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1280x1024@75.025Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1360x768@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1360x768@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1366x768@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1366x768@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1440x900@59.887Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1440x900@74.984Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1600x900@59.954Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1600x1024@59.954Hz
+2016-07-29 22:52:04.093 - Thread:   1 ->        1680x1050@59.954Hz
+2016-07-29 22:52:05.087 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.088 - Thread:   7 ->           Font filename: Fonts\white_shadow\FontData.xml
+2016-07-29 22:52:05.090 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontData.xml
+2016-07-29 22:52:05.090 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.090 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.090 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.090 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.191 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.191 - Thread:   7 ->           Font filename: Fonts\red\FontData.xml
+2016-07-29 22:52:05.193 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2016-07-29 22:52:05.194 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.194 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.194 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.194 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.237 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.238 - Thread:   7 ->           Font filename: Fonts\green\FontData.xml
+2016-07-29 22:52:05.241 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\green\FontData.xml
+2016-07-29 22:52:05.241 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.241 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.241 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.241 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.410 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.411 - Thread:   7 ->           Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:05.413 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:05.413 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.413 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.413 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.413 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.580 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.581 - Thread:   7 ->           Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:05.588 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:05.588 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.588 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.588 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.588 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.632 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.633 - Thread:   7 ->           Font filename: Fonts\DarkBlue\FontData.xml
+2016-07-29 22:52:05.638 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\DarkBlue\FontData.xml
+2016-07-29 22:52:05.638 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.638 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.638 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.638 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.685 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.686 - Thread:   7 ->           Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:05.688 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:05.688 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.688 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.688 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.688 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.689 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.689 - Thread:   7 ->           Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:05.691 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:05.691 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.691 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.691 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.691 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.692 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.692 - Thread:   7 ->           Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:05.694 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:05.694 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.694 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.694 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.694 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.694 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.695 - Thread:   7 ->           Font filename: Fonts\red\FontData.xml
+2016-07-29 22:52:05.697 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2016-07-29 22:52:05.697 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.697 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.697 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.697 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.697 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.698 - Thread:   7 ->           Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:05.700 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:05.700 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.700 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.700 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.700 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.700 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.701 - Thread:   7 ->           Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:05.703 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:05.703 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.703 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.703 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.703 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.703 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.704 - Thread:   7 ->           Font filename: Fonts\white\FontData.xml
+2016-07-29 22:52:05.708 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\white\FontData.xml
+2016-07-29 22:52:05.708 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.708 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.708 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.708 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.708 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.708 - Thread:   7 ->           Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:05.710 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:05.710 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.710 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.710 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.710 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.711 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.711 - Thread:   7 ->           Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:05.713 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:05.713 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.713 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.713 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.713 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.713 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.714 - Thread:   7 ->           Font filename: Fonts\blue\FontData.xml
+2016-07-29 22:52:05.716 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\blue\FontData.xml
+2016-07-29 22:52:05.716 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.716 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.716 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.716 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:52:05.716 - Thread:   7 ->        MyFont.Ctor - START
+2016-07-29 22:52:05.717 - Thread:   7 ->           Font filename: Fonts\red\FontData.xml
+2016-07-29 22:52:05.719 - Thread:   7 ->           FontFilePath: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Fonts\red\FontData.xml
+2016-07-29 22:52:05.719 - Thread:   7 ->           LineHeight: 37
+2016-07-29 22:52:05.719 - Thread:   7 ->           Baseline: 30
+2016-07-29 22:52:05.719 - Thread:   7 ->           KernEnabled: True
+2016-07-29 22:52:05.719 - Thread:   7 ->        MyFont.Ctor - END
+2016-07-29 22:54:19.044 - Thread:   7 ->        Asset Models\Environment\Props\Stereolith.mwm tries to overrwrite material Monolith with different textures
+2016-07-29 22:54:19.044 - Thread:   7 ->        Asset Models\Environment\Props\Stereolith.mwm tries to overrwrite material MonolithText with different textures
+2016-07-29 22:54:19.751 - Thread:   7 ->        Asset Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseTop.mwm tries to overrwrite material SlopePlate with different textures
+2016-07-29 22:54:19.755 - Thread:   7 ->        Asset Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseFront.mwm tries to overrwrite material SquarePlate with different textures
+2016-07-29 22:54:19.760 - Thread:   7 ->        Asset Models\Cubes\Large\Armor\HeavySquarePlateSlope2BaseLeft.mwm tries to overrwrite material corner_and_face_triangle_inv with different textures
+2016-07-29 22:54:19.857 - Thread:   7 ->        Asset Models\Cubes\Large\Armor\HeavySlopePlateCorner2BaseTop.mwm tries to overrwrite material corner_and_face_triangle with different textures
+2016-07-29 22:54:20.253 - Thread:   7 ->        Asset Models\Cubes\Large\ButtonPanel.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:20.253 - Thread:   7 ->        Asset Models\Cubes\Large\ButtonPanel.mwm tries to overrwrite material Emissive2 with different textures
+2016-07-29 22:54:20.253 - Thread:   7 ->        Asset Models\Cubes\Large\ButtonPanel.mwm tries to overrwrite material Emissive3 with different textures
+2016-07-29 22:54:20.253 - Thread:   7 ->        Asset Models\Cubes\Large\ButtonPanel.mwm tries to overrwrite material Emissive4 with different textures
+2016-07-29 22:54:20.341 - Thread:   7 ->        Asset Models\Cubes\Large\InteriorLight.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:20.349 - Thread:   7 ->        Asset Models\Cubes\Large\OxygenStorage.mwm tries to overrwrite material Emissive2 with different textures
+2016-07-29 22:54:20.349 - Thread:   7 ->        Asset Models\Cubes\Large\OxygenStorage.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:20.349 - Thread:   7 ->        Asset Models\Cubes\Large\OxygenStorage.mwm tries to overrwrite material Emissive3 with different textures
+2016-07-29 22:54:20.349 - Thread:   7 ->        Asset Models\Cubes\Large\OxygenStorage.mwm tries to overrwrite material Emissive4 with different textures
+2016-07-29 22:54:20.470 - Thread:   7 ->        Asset Models\Cubes\Large\OxygenGenerator.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:20.668 - Thread:   7 ->        Asset Models\Cubes\Large\CryoPod.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:20.668 - Thread:   7 ->        Asset Models\Cubes\Large\CryoPod.mwm tries to overrwrite material Terminal with different textures
+2016-07-29 22:54:20.668 - Thread:   7 ->        Asset Models\Cubes\Large\CryoPod.mwm tries to overrwrite material Glass with different textures
+2016-07-29 22:54:20.705 - Thread:   7 ->        Asset Models\Cubes\Large\LaserComTop.mwm tries to overrwrite material Emissive0 with different textures
+2016-07-29 22:54:20.865 - Thread:   7 ->        Asset Models\Cubes\Large\BatteryLarge.mwm tries to overrwrite material Emissive3 with different textures
+2016-07-29 22:54:20.865 - Thread:   7 ->        Asset Models\Cubes\Large\BatteryLarge.mwm tries to overrwrite material Emissive2 with different textures
+2016-07-29 22:54:20.865 - Thread:   7 ->        Asset Models\Cubes\Large\BatteryLarge.mwm tries to overrwrite material Emissive0 with different textures
+2016-07-29 22:54:20.865 - Thread:   7 ->        Asset Models\Cubes\Large\BatteryLarge.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:20.903 - Thread:   7 ->        Asset Models\Cubes\Large\beacon.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:20.950 - Thread:   7 ->        Asset Models\Cubes\Large\Connector.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:21.046 - Thread:   7 ->        Asset Models\Cubes\Large\UpgradeProductivity.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:21.046 - Thread:   7 ->        Asset Models\Cubes\Large\UpgradeProductivity.mwm tries to overrwrite material Emissive0 with different textures
+2016-07-29 22:54:21.301 - Thread:   7 ->        Asset Models\Cubes\Large\TimerBlock.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:21.358 - Thread:   7 ->        Asset Models\Cubes\Large\Sensor.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:21.361 - Thread:   7 ->        Asset Models\Cubes\Large\Welder.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:21.368 - Thread:   7 ->        Asset Models\Cubes\Large\SolarPanel.mwm tries to overrwrite material Emissive3 with different textures
+2016-07-29 22:54:21.368 - Thread:   7 ->        Asset Models\Cubes\Large\SolarPanel.mwm tries to overrwrite material Emissive2 with different textures
+2016-07-29 22:54:21.368 - Thread:   7 ->        Asset Models\Cubes\Large\SolarPanel.mwm tries to overrwrite material Emissive0 with different textures
+2016-07-29 22:54:21.368 - Thread:   7 ->        Asset Models\Cubes\Large\SolarPanel.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:21.660 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\CornerTriangleLeftPlate.mwm tries to overrwrite material corner_and_face_triangle with different textures
+2016-07-29 22:54:21.711 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\SquarePlate.mwm tries to overrwrite material SquarePlate with different textures
+2016-07-29 22:54:21.808 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\SlopePlate.mwm tries to overrwrite material SlopePlate with different textures
+2016-07-29 22:54:21.969 - Thread:   7 ->        Asset Models\Cubes\Small\LandingGear.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:21.988 - Thread:   7 ->        Asset Models\Cubes\Small\BatterySmall.mwm tries to overrwrite material Emissive0 with different textures
+2016-07-29 22:54:22.097 - Thread:   7 ->        Asset Models\Cubes\Small\Projector.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:22.343 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\SquarePlateSlope2BaseRight.mwm tries to overrwrite material corner_and_face_triangle_inv with different textures
+2016-07-29 22:54:22.502 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenGenerator.mwm tries to overrwrite material OxygenGenerator with different textures
+2016-07-29 22:54:22.502 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenGenerator.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:22.536 - Thread:   7 ->        Asset Models\Cubes\Small\cockpit.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:22.656 - Thread:   7 ->        Asset Models\Cubes\Small\ConnectorMedium.mwm tries to overrwrite material Connector with different textures
+2016-07-29 22:54:22.702 - Thread:   7 ->        Asset Models\Cubes\small\LightLOD1.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:23.154 - Thread:   7 ->        Asset Models\Cubes\Small\gyroscope.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:23.354 - Thread:   7 ->        Asset Models\Cubes\Small\RemoteControl.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:23.364 - Thread:   7 ->        Asset Models\Cubes\Small\Camera.mwm tries to overrwrite material Camera with different textures
+2016-07-29 22:54:23.588 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenStorage.mwm tries to overrwrite material Conveyor with different textures
+2016-07-29 22:54:23.588 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenStorage.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:23.588 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenStorage.mwm tries to overrwrite material Emissive4 with different textures
+2016-07-29 22:54:23.588 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenStorage.mwm tries to overrwrite material Emissive3 with different textures
+2016-07-29 22:54:23.588 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenStorage.mwm tries to overrwrite material Emissive1 with different textures
+2016-07-29 22:54:23.588 - Thread:   7 ->        Asset Models\Cubes\Small\OxygenStorage.mwm tries to overrwrite material Emissive2 with different textures
+2016-07-29 22:54:23.594 - Thread:   7 ->        Asset Models\Cubes\Small\Grinder.mwm tries to overrwrite material Grinder with different textures
+2016-07-29 22:54:23.672 - Thread:   7 ->        Asset Models\Cubes\Small\Welder.mwm tries to overrwrite material Welder with different textures
+2016-07-29 22:54:23.764 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\HeavySquarePlate.mwm tries to overrwrite material HeavySquarePlate with different textures
+2016-07-29 22:54:23.806 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\HeavyCornerLeftPlate.mwm tries to overrwrite material Heavy_corner_and_face_triangle with different textures
+2016-07-29 22:54:23.932 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\HeavySlopePlateSlope2Tip.mwm tries to overrwrite material SlopePlate with different textures
+2016-07-29 22:54:23.936 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\HeavyCornerTriangleLeftPlateSlope2Tip.mwm tries to overrwrite material corner_and_face_triangle_inv with different textures
+2016-07-29 22:54:24.030 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\HeavySquarePlateSlope2TipBack.mwm tries to overrwrite material SquarePlate with different textures
+2016-07-29 22:54:24.200 - Thread:   7 ->        Asset Models\Cubes\Small\Armor\HeavySlopePlate.mwm tries to overrwrite material HeavySlopePlate with different textures
+2016-07-29 22:54:24.451 - Thread:   7 ->        Asset Models\Cubes\small\CockpitFighter.mwm tries to overrwrite material Cockpit with different textures
+2016-07-29 22:54:25.912 - Thread:   7 ->        Asset Models\Cubes\Large\ConveyorSorter.mwm tries to overrwrite material Display with different textures
+2016-07-29 22:54:26.039 - Thread:   7 ->        Asset Models\Cubes\Large\warhead.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:26.169 - Thread:   7 ->        Asset Models\Cubes\Large\ProgrammingBlock.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:26.241 - Thread:   7 ->        Asset Models\Cubes\Large\passage.mwm tries to overrwrite material Emissive with different textures
+2016-07-29 22:54:27.864 - Thread:   7 ->        Asset Models\Cubes\Small\MotorSuspensionLarge.mwm tries to overrwrite material 01 - Default with different textures
+2016-07-29 22:54:29.381 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/EarthFarClouds_ng.dds
+2016-07-29 22:54:29.381 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/EarthFarClouds_ng.dds
+2016-07-29 22:54:29.841 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/Landsky_texture_ng.dds
+2016-07-29 22:54:29.841 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/Landsky_texture_ng.dds
+2016-07-29 22:54:30.267 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/AlienSky_ng.dds
+2016-07-29 22:54:30.267 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/AlienSky_ng.dds
+2016-07-29 22:54:30.712 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/TitanSky_ng.dds
+2016-07-29 22:54:30.712 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/TitanSky_ng.dds
+2016-07-29 22:54:31.177 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/TitanSkySolid_ng.dds
+2016-07-29 22:54:31.177 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/TitanSkySolid_ng.dds
+2016-07-29 22:54:31.660 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/MartianSky_ng.dds
+2016-07-29 22:54:31.661 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/MartianSky_ng.dds
+2016-07-29 22:54:32.064 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures/Models/Environment/Sky/MartianSky02_ng.dds
+2016-07-29 22:54:32.064 - Thread:   7 ->        Missing or invalid texture: Textures/Models/Environment/Sky/MartianSky02_ng.dds
+2016-07-29 22:54:46.899 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\_cm.dds
+2016-07-29 22:54:46.899 - Thread:   7 ->        Missing or invalid texture: _cm.dds
+2016-07-29 22:54:46.899 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\_ng.dds
+2016-07-29 22:54:46.899 - Thread:   7 ->        Missing or invalid texture: _ng.dds
+2016-07-29 22:54:46.899 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\_add.dds
+2016-07-29 22:54:46.899 - Thread:   7 ->        Missing or invalid texture: _add.dds
+2016-07-29 22:54:50.309 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures\Models\default_cm.dds
+2016-07-29 22:54:50.309 - Thread:   7 ->        Missing or invalid texture: Textures\Models\default_cm.dds
+2016-07-29 22:54:50.309 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures\Models\default_ng.dds
+2016-07-29 22:54:50.309 - Thread:   7 ->        Missing or invalid texture: Textures\Models\default_ng.dds
+2016-07-29 22:54:50.309 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures\Models\default_add.dds
+2016-07-29 22:54:50.309 - Thread:   7 ->        Missing or invalid texture: Textures\Models\default_add.dds
+2016-07-29 22:54:55.542 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures\Models\Cubes\armor\default_grey_ng.dds
+2016-07-29 22:54:55.542 - Thread:   7 ->        Missing or invalid texture: Textures\Models\Cubes\armor\default_grey_ng.dds
+2016-07-29 22:55:08.301 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures\Voxels\Woods_needles_add.dds
+2016-07-29 22:55:08.302 - Thread:   7 ->        Missing or invalid texture: Textures\Voxels\Woods_needles_add.dds
+2016-07-29 22:56:45.616 - Thread:   7 ->        Mesh asset Models/Debug/Cone.mwm has inconsistent vertex streams
+2016-07-29 22:56:46.484 - Thread:   7 ->        Mesh asset Models/Debug/Cone.mwm has no material in part 0
+2016-07-29 22:56:54.853 - Thread:   7 ->        Mesh asset Models/Debug/Sphere.mwm has inconsistent vertex streams
+2016-07-29 22:56:54.853 - Thread:   7 ->        Mesh asset Models/Debug/Sphere.mwm has no material in part 0
+2016-07-29 22:58:19.725 - Thread:   7 ->        WARNING: Shader was not precompiled - triplanar_multi_foliage_streaming_VOXEL_POSITION_MAT;VOXEL_NORMAL @ profile vs_5_0 with defines DITHERED;USE_VOXEL_DATA;FXAA_ENABLED
+2016-07-29 23:01:07.277 - Thread:   7 ->        Asset Models\Debris\Debris01.mwm tries to overrwrite material Material #25 with different textures
+2016-07-29 23:06:08.602 - Thread:   7 ->        Asset Models\Weapons\Ammo_Box.mwm tries to overrwrite material 01 - Default with different textures
+2016-07-29 23:06:33.605 - Thread:   7 ->        Asset Models\Ingots\gold_ingot.mwm tries to overrwrite material 01 - Default with different textures
+2016-07-29 23:06:38.642 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures2\Models\fake_cm.dds
+2016-07-29 23:06:38.642 - Thread:   7 ->        Missing or invalid texture: Textures2\Models\fake_cm.dds
+2016-07-29 23:06:38.643 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures2\Models\fake_ng.dds
+2016-07-29 23:06:38.643 - Thread:   7 ->        Missing or invalid texture: Textures2\Models\fake_ng.dds
+2016-07-29 23:06:38.643 - Thread:   7 ->        Could not load texture: F:\Spiele\SteamLibrary\steamapps\common\SpaceEngineers\Content\Textures2\Models\fake_add.dds
+2016-07-29 23:06:38.643 - Thread:   7 ->        Missing or invalid texture: Textures2\Models\fake_add.dds
+2016-07-29 23:06:52.346 - Thread:   7 ->        Device Context change
